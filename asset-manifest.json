@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/2023-yugioh-search/static/css/main.4439a557.css",
-    "main.js": "/2023-yugioh-search/static/js/main.e6178af0.js",
-    "static/js/787.4d725b48.chunk.js": "/2023-yugioh-search/static/js/787.4d725b48.chunk.js",
-    "static/media/logo.svg": "/2023-yugioh-search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/2023-yugioh-search/index.html",
-    "main.4439a557.css.map": "/2023-yugioh-search/static/css/main.4439a557.css.map",
-    "main.e6178af0.js.map": "/2023-yugioh-search/static/js/main.e6178af0.js.map",
-    "787.4d725b48.chunk.js.map": "/2023-yugioh-search/static/js/787.4d725b48.chunk.js.map"
+    "main.css": "/2023-yugioh-card-search/static/css/main.4439a557.css",
+    "main.js": "/2023-yugioh-card-search/static/js/main.6c3fd4b1.js",
+    "static/js/787.4d725b48.chunk.js": "/2023-yugioh-card-search/static/js/787.4d725b48.chunk.js",
+    "static/media/logo.svg": "/2023-yugioh-card-search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/2023-yugioh-card-search/index.html",
+    "main.4439a557.css.map": "/2023-yugioh-card-search/static/css/main.4439a557.css.map",
+    "main.6c3fd4b1.js.map": "/2023-yugioh-card-search/static/js/main.6c3fd4b1.js.map",
+    "787.4d725b48.chunk.js.map": "/2023-yugioh-card-search/static/js/787.4d725b48.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4439a557.css",
-    "static/js/main.e6178af0.js"
+    "static/js/main.6c3fd4b1.js"
   ]
 }
